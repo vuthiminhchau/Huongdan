@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "erro999hack",
-         Animation = "đóm chúa: Tín"
+         Animation = "Youtube: erro999hack Roblox"
          },
         Key = {
         KeySystem = false,
@@ -31,8 +31,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       
 ------ Tab
      local Tab1o = MakeTab({Name = "Script Farm"})
-     local Tab2o = MakeTab({Name = "ba anh emsieu nhan"})
-
+     local Tab2o = MakeTab({Name = "script kaitun"})
 ------- BUTTON
     
     AddButton(Tab1o, {
@@ -47,12 +46,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   end
   })
 
-AddButton(Tab2o, {
-     Name = "scriptkhanh",
+AddButton(Tab1o, {
+     Name = "Tin hub",
     Callback = function()
-	  local Settings = {
-  JoinTeam = "Pirates"; -- Pirates/Marines
-  Translator = true; -- true/false
-}
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinCE"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TBoyRoblox727/tboyroblox/refs/heads/main/AllScriptFix.lua
+  end
+  })
